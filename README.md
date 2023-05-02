@@ -1,2 +1,2 @@
 # DS_PW
-Data Science Assignment by YUVRAJ
+Data Science Assignments by YUVRAJ
