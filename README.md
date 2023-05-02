@@ -1,2 +1,2 @@
-# DS_PW_Python-Assignment
-Python Assignment by YUVRAJ
+# DS_PW
+Data Science Assignment by YUVRAJ
